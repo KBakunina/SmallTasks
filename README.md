@@ -1,1 +1,1 @@
-# SmallTasks
+Small C# programming tasks
